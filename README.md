@@ -24,9 +24,9 @@ Before you start, you should have:
 
 | Day | Topic | Repo Link |
 |-----|-------|-----------|
-| Day 1 | HTML5 Basic Structure | [📄 View Notes](./Day01_HTML5_Basic_Structure/README.md) |
-| Day 2 | HTML Text Formatting Tags | Coming Soon |
-| Day 3 | HTML Links & Images | Coming Soon |
+| Day 1 | HTML5 Basic Structure | [📄 View Notes](WebDev-Series/HTML/WebDev-Series-Day01/Day01HtmlIntro.html) |
+| Day 2 | HTML Text Formatting Tags | [📄 View Notes](WebDev-Series/HTML/WebDev-Series-Day02/Day02HTMLTextFormatting.html) |
+| Day 3 | HTML Links & Images | [📄 View Notes](WebDev-Series/HTML/WebDev-Series-Day03/Day03HTML_Media&AnchorTag.html) |
 | Day 4 | HTML Lists (Ordered & Unordered) | Coming Soon |
 | Day 5 | HTML Tables | Coming Soon |
 | Day 6 | HTML Forms & Input Types | Coming Soon |
