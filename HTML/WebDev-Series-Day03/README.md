@@ -137,5 +137,3 @@ This HTML file shows how to embed and control **images, videos, and audio** in a
 
 Click the link to **open the Day03 HTML file** in your browser:
 [View Day03 Media & Anchor Tags](webDev-Series/HTML/WebDev-Series-Day03/Day03HTML_Media&AnchorTag.html)
-
-```
