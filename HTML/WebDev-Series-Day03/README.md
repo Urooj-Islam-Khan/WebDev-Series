@@ -4,8 +4,6 @@ This project demonstrates **HTML media elements** (image, audio, video) and **an
 
 ---
 
----
-
 ## 📖 Overview
 This HTML file shows how to embed and control **images, videos, and audio** in a webpage, and how to create **internal and external hyperlinks** using the anchor `<a>` tag. All important attributes are included for better learning.
 
@@ -138,16 +136,6 @@ This HTML file shows how to embed and control **images, videos, and audio** in a
 ## 🌐 Live Preview
 
 Click the link to **open the Day03 HTML file** in your browser:
-[View Day03 Media & Anchor Tags](HTML/WebDev-Series-Day03/Day03HTML_Media&AnchorTag.html)
-
----
-
-## ✅ Learning Outcomes
-
-* Learn to embed and control **images, videos, and audio** in HTML.
-* Understand all **important attributes** of `<img>`, `<video>`, `<audio>`, and `<a>` tags.
-* Learn the difference between **internal and external links**.
-* Create download links and tooltips using anchor attributes.
-* Combine media with links for interactive web pages.
+[View Day03 Media & Anchor Tags](webDev-Series/HTML/WebDev-Series-Day03/Day03HTML_Media&AnchorTag.html)
 
 ```
