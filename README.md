@@ -1,6 +1,6 @@
 # 🌐 WebDev-Series — Learn Web Development Step-by-Step
 
-Welcome to the **WebDev-Series**! 🎯  
+Welcome to the **WebDev-Series**! 
 This is a beginner-friendly, structured learning path for anyone who wants to learn **web development** from scratch.  
 Each **Day** contains:
 - 📄 **Complete Code Example**
